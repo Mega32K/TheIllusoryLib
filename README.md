@@ -32,3 +32,6 @@ public class MyMod {
     }
 }
 ```
+#  注意
+本lib需要*MixinBootstrap*模组作为前置
+*[MixinBootstrap]https://www.mcmod.cn/class/2364.html*
