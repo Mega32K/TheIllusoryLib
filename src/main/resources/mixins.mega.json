@@ -1,0 +1,14 @@
+{
+  "compatibilityLevel": "JAVA_8",
+  "minVersion": "0.8.0",
+  "package": "com.mega.illusory.mixin",
+  "mixins": [
+    "EntityLivingMixin"
+  ],
+  "client": [],
+  "server": [],
+  "required": false,
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
