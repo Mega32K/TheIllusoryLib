@@ -1,7 +1,7 @@
 # TheIllusoryLib
 这是一个弱智类型的库  
 ## 如何引导
-1.在工作区主目录创建libs文件夹  
+1.在工作区主目录创建libs文件夹,并将此Lib的jar放入    
 2.配置build.gradle  
 `build.gradle内`  
 ```
